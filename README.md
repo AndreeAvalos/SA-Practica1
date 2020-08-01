@@ -1,15 +1,15 @@
 # SA-Practica1
 Practica No.1 de Software Avanzado
 
-#Requisitos
+# Requisitos
 * Python 3.8+
 
-#Librerias
+# Librerias
 ```
 pip install zeep
 ```
 
-#Ejecucion
+# Ejecucion
 ```
 Python Main.py
 ```
